@@ -1,5 +1,5 @@
 
-**PROJENİN AMA TEMASI:**
+**PROJENİN ANA TEMASI:**
 
 NetBeans IDE'de Java ile yazılmış olup iki farklı uygulama içermektedir. İlk uygulama, tek boyutlu ve iki boyutlu dizilere dair örnekler içermektedir. İkinci uygulama, belirli zorluk seviyelerine sahip 
 mayın tarlası oyunu içermektedir. Zorluk seviyeleri kullanıcı tarafından belirlenmektedir.
